@@ -2,11 +2,45 @@
   <img src="https://render.gitanimals.org/farms/{AnJinHyeong}"/>
 </a>
 
-# 👋 안녕하세요! 진형입니다
+🛠️ Tech Stack
+Language
+Java
 
-프론트엔드 개발자로서 TypeScript, React, Git 전략에 관심이 많습니다.  
-현재는 **TEAM 진형**와 함께 구조화된 시스템 운영을 설계 중입니다.
+Backend
+Spring
 
-## 📫 Contact
-- Blog: [https://yourblog.com](https://yourblog.com)
-- Email: you@example.com
+Spring Boot
+GitHub
+
+Database
+MySQL
+
+MongoDB
+
+Infra
+AWS
+
+Docker
+
+Kubernetes
+GitHub Docs
+GitHub
++10
+SitePoint
++10
+ERE
++10
+
+Others
+Git
+
+Jenkins
+
+Jira
+GitHub
++25
+Reddit
++25
+GitHub
++25
+
