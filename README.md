@@ -1,4 +1,4 @@
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals" style="displady: flex; justify-content: center;">
   <img src="https://render.gitanimals.org/farms/{AnJinHyeong}"/>
 </a>
 
