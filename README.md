@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{AnJinHyeong}"/>
+</a>
+
 # 👋 안녕하세요! 진형입니다
 
 프론트엔드 개발자로서 TypeScript, React, Git 전략에 관심이 많습니다.  
